@@ -15,3 +15,5 @@ https://www.motivateco.com
 https://pandas.pydata.org/pandas-docs/stable/reference/index.html
 https://en.wikipedia.org/wiki/Data_wrangling
 
+### Project Experience
+Completing the BikeShare Project was a lot fun while coding, making mistakes and learning at the same time
