@@ -11,6 +11,7 @@ The BikeShare Project was to explore the data on bike share use in Chicago, New 
 Python 3, NumPy,  Sublime, pandas, Anaconda, Windows Terminal
 
 ### Credits
+<<<<<<< HEAD
 https://www.motivateco.com
 https://pandas.pydata.org/pandas-docs/stable/reference/index.html
 https://en.wikipedia.org/wiki/Data_wrangling
