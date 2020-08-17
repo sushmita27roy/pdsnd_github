@@ -198,7 +198,7 @@ def output_display5(df):
     
     display=0
     while True:
-        choice=input('Do you next, wish you to view 5 lines of the Raw Data? Enter: yes or no: ')
+        choice=input('You are about to view 5 lines of the Raw Data? Enter: yes or no: ')
         if choice.lower() == 'yes':
             print(df[display:display+5])
         else:
