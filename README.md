@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+7/19/2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The BikeShare Project was to explore the data on bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics
 
 ### Files used
-Include the files used
+Python 3, NumPy,  Sublime, pandas, Anaconda, Windows Terminal
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.motivateco.com
+https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+https://en.wikipedia.org/wiki/Data_wrangling
